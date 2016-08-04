@@ -1,0 +1,45 @@
+_repo: Mauprat_2194
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Young, Stanley
+    gutenberg_agent_id: '852'
+    url: http://www.gutenberg.org/2009/agents/852
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: "Mauprat is a novel by the French novelist George Sand about love and\
+  \ education. It was published in serial form in April and May 1837. Like many of\
+  \ Sand's novels, Mauprat borrows from various fictional genres — the Gothic novel,\
+  \ chivalric romance, the Bildungsroman, detective fiction and the historical novel.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2194'
+  wikidata: Q3300215
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- France -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Women''s rights -- Fiction'
+- GITenberg
+title: Mauprat
+url: http://www.gutenberg.org/ebooks/2194
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BF%D1%80%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://fr.wikipedia.org/wiki/Mauprat_(roman)
+- https://en.wikipedia.org/wiki/Mauprat
+- https://sh.wikipedia.org/wiki/Mauprat
