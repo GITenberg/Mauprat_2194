@@ -1,10 +1,13 @@
 _repo: Mauprat_2194
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Young, Stanley
     gutenberg_agent_id: '852'
     url: http://www.gutenberg.org/2009/agents/852
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sand, George
@@ -22,6 +25,8 @@ description: "Mauprat is a novel by the French novelist George Sand about love a
   \ Sand's novels, Mauprat borrows from various fictional genres — the Gothic novel,\
   \ chivalric romance, the Bildungsroman, detective fiction and the historical novel.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2194#Mauprat
 gutenberg_issued: '2006-03-26'
 gutenberg_type: Text
 identifiers:
